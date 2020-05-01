@@ -18,4 +18,4 @@ Python Based Agent-Based Simulation Framework supporting Large-Scale Computation
  4. A easy-to-use API for data generation and export, e.g. for exploratory data analysis, pattern analysis and interactive visualizations.
  
  Ultrascale is **not** a complete software package, providing a GUI or targeted at specific use cases. While support for common use cases
- like e.g. spatial agent-absed modeling will be provided, the aim of the framework is to support generic agent-based scenarios.
+ like e.g. spatial agent-based modeling will be provided, the aim of the framework is to support generic agent-based scenarios.
