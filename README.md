@@ -2,7 +2,7 @@
 
 # Ultrascale
 
-Ultrascale is a python agent-ased simulation framework supporting large-scale computation and simple integration with state-of-the-Art machine learning
+Ultrascale is an agent-based simulation framework with a python scripting frontend, supporting large-scale computation and simple integration with state-of-the-art machine learning.
 
 **Documentation:** https://ultrascale.readthedocs.io/en/latest/
 
