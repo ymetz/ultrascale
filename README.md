@@ -1,5 +1,12 @@
+[![Documentation Status](https://readthedocs.org/projects/ultrascale/badge/?version=latest)](https://ultrascale.readthedocs.io/en/latest/?badge=latest)
+
 # Ultrascale
-Python Based Agent-Based Simulation Framework supporting Large-Scale Computation and simple Integration with State-of-the-Art Machine Learning
+
+Ultrascale is a python agent-ased simulation framework supporting large-scale computation and simple integration with state-of-the-Art machine learning
+
+**Documentation:** https://ultrascale.readthedocs.io/en/latest/
+
+## Project Goals
 
 **Ultrascale** is a general-purpose framework that enables agent-based simulation. Ultrascale is designed to tackle four main goals:
  
@@ -19,3 +26,8 @@ Python Based Agent-Based Simulation Framework supporting Large-Scale Computation
  
  Ultrascale is **not** a complete software package, providing a GUI or targeted at specific use cases. While support for common use cases
  like e.g. spatial agent-based modeling will be provided, the aim of the framework is to support generic agent-based scenarios.
+
+
+## Documentation
+
+Documentation is available online: [https://ultrascale.readthedocs.io/](https://ultrascale.readthedocs.io/)
